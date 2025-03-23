@@ -1,0 +1,14 @@
+streamlit
+groq
+langgraph
+python-dotenv
+reportlab
+plotly
+opencv-python
+Pillow
+pytesseract
+pdf2image
+regex
+folium
+streamlit-folium
+geopy
